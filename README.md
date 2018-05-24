@@ -1,2 +1,2 @@
 # blinkist-scraper
-Scrape blinkist!
+Scrape blinkist https://www.blinkist.com/
