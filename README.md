@@ -1,0 +1,2 @@
+# blinkist-scraper
+Scrape blinkist!
