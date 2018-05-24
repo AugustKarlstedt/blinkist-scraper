@@ -1,3 +1,8 @@
+# ignore scraped file stuffs
+*.zip
+books.json
+html/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
