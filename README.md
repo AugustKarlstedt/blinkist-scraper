@@ -1,5 +1,5 @@
 ## update April 1, 2020
-blinkest is offering free premium so now would be a good time to update this scraper
+blinkist is offering free premium so now would be a good time to update this scraper
 
 it's on my to-do list, but if I were to rewrite this I'd probably use nodejs and puppeteer
 
