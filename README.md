@@ -1,9 +1,9 @@
 ## update April 1, 2020
 this is no longer maintained
 
-blinkist is offering free premium for some time so now would be a good time to update this scraper
+~blinkist is offering free premium for some time so now would be a good time to update this scraper~
 
-it's on my to-do list, but if I were to rewrite this I'd probably use nodejs and puppeteer
+~it's on my to-do list, but~ if I were to rewrite this I'd probably use nodejs and puppeteer
 
 # blinkist-scraper
 Scrape blinkist https://www.blinkist.com/
